@@ -19,6 +19,8 @@ public class HomePage extends Base_Class{
 	{
 		driver=initializeDriver();
 		driver.get(prop.getProperty("URL"));
+//changes
+
 		
 	}
 
